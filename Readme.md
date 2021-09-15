@@ -4,4 +4,4 @@ A Simple GUI based calculator which perform mathematical operation such as addit
 
 The Calculator was made using JAVA Swing concept.
 
-<img src="./rockPaperScissor.JPG">
+<img src="./calc.JPG">
